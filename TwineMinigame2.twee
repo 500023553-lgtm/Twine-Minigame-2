@@ -1,0 +1,17 @@
+:: StoryTitle
+Twine Minigame 2
+
+
+:: StoryData
+{
+  "ifid": "d1d488d1-e008-43d0-8226-d7aa8a51892b",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "zoom": 0.6
+}
+
+
+:: Start {"position":"450,150","size":"100,100"}
+!put your title here
+
+Start writing your story here :)

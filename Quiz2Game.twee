@@ -1,0 +1,74 @@
+:: StoryTitle
+Quiz 2 Game
+
+
+:: StoryData
+{
+  "ifid": "b13aee1b-f386-49da-bd1d-4ddd8e10f95d",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "start": "start",
+  "zoom": 1
+}
+
+
+:: Run at her {"position":"550,250","size":"100,100"}
+<!--
+Notice how the [[start]] link goes back to the start of the game. This is because the first passage is named start!
+-->
+
+Momo runs away. I think she wasn't ready for the big beautiful boy to come barreling at her!
+
+Try again by going back to the [[start]].
+
+
+:: cat gogurt {"position":"350,375","size":"100,100"}
+<
+Notice how the start link goes back to the start of the game. This is because the first passage is named start!
+>
+
+Momo loved it!! She eats all of the cat gogurt.
+
+See another option by [[going back to the beginning>start]].
+
+
+:: going back to the beginning>start {"position":"350,500","size":"100,100"}
+
+
+
+:: lick {"position":"200,275","size":"100,100"}
+<!--
+Notice how the [[start]] link goes back to the start of the game. This is because the first passage is named start!
+-->
+
+Momo hisses at you and runs away. I don't think she's ready to be groomed!
+
+Try again by going back to the [[start ]].
+
+
+:: start {"position":"425,75","size":"100,100"}
+<!--
+This game demonstrates how Twine works! 
+
+Everything inside the alligator brackets <> here will only show to the programmer, and NOT to the player.
+
+Notice how there's two options in this passage that the player can choose. Both of these options have double square brackets around the option, which creates a link to the result of choosing that option.
+
+I hope y'all don't mind that I always use my cats as characters in the Minigames. :) Their names are Leo, Willow, Nemo, and Momo.
+-->
+
+!Start
+
+/Click the links to advance in the game./
+
+You are ''Nemo, a big orange cat, and you are trying to befriend a very shy cat named Momo, a fluffy black cat.
+
+What will you do to earn her affection?
+
+- Offer her delicious [[cat gogurt]]
+- [Run at her] excitedly
+- Try to [[lick]] her
+
+
+:: start\  {"position":"200,400","size":"100,100"}
+
