@@ -11,7 +11,96 @@ Twine Minigame 2
 }
 
 
-:: Start {"position":"450,150","size":"100,100"}
-!put your title here
+:: Bored Cat {"position":"450,150","size":"100,100"}
+!Bored Cat
+ 
+ //Click the links to advance in the game.//
+ 
+ You're ''cat'' is bored and you need to choose what to do
 
-Start writing your story here :)
+
+Choose one of the option you can do
+[[Eats Chicken]] 
+ 
+[[Cuddle with Him]]
+
+[[Play with his toys]]
+
+
+
+:: Cookie {"position":"225,725","size":"100,100"}
+I don't know why you would chose a cookie to feed to your cat. its not a good for him and not a good option if you would chose to feed your cat this 
+
+Go back and choose something else instead of a cookie 
+
+[[Cookie->Wand Toys]]
+
+
+:: Cuddle with Him {"position":"325,275","size":"100,100"}
+Great you chose to cuddle with him, But he isn't coming towards you and when you try to grab him he's running away
+
+Go back and choose a different option!
+
+[[cuddle->Bored Cat]]
+
+
+:: Eats Chicken {"position":"575,250","size":"100,100"}
+Incorrect option  your cat is not hungry and wants 
+to do an activity instead of eating chicken
+
+[[eating->Bored Cat]]
+
+
+:: Play with his toys {"position":"425,450","size":"100,100"}
+Great he is intrested in playing with the toys but now you have to choose what toys you want to play with 
+
+[[Pretend Mice plushie]]
+
+[[Wand Toys]]
+
+[[Puzzle for treats]]
+
+
+:: Pretend Mice plushie {"position":"225,550","size":"100,100"}
+Great Option but your cat is unintreasted after couple of mintues and completly ignores it 
+Go back and select a different option
+
+[[Mice plushie->Play with his toys]]
+
+
+:: Puzzle for treats {"position":"550,575","size":"100,100"}
+Not a bad option, but your cats wants to run around and be active, not figure out a puzzle for some treats he won't even eat
+
+Go back and choose a different option
+
+[[Puzzle->Play with his toys]]
+
+
+:: Steak {"position":"400,800","size":"100,100"}
+Good Choice, But your cat doesn't want to eat steak for it's food and wants something else.
+
+
+Go back and chose a different option 
+
+[[Steak->Wand Toys]]
+
+
+:: Tuna {"position":"600,750","size":"100,100"}
+Great choice, your cat ate all the of the tuna it was given and now the cat is full and ready to sleep
+
+
+The cat went to sleep with a full stomach
+
+The End :)
+
+
+:: Wand Toys {"position":"400,600","size":"100,100"}
+Great options you play with the wand toys with your cat, But now he is getting hungry for food or snacks 
+
+Choose what you will feed to your cat
+
+[[Steak]]
+
+[[Tuna]]
+
+[[Cookie]]
